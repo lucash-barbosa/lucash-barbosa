@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou cursando a Alura
 - 👀 Estou me dedicando ao front end
-- 🌱 Atudalmente estou estudando html, css, js e ts
+- 🌱 Estudando html, css, js e ts
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
