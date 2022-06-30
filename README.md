@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Lucas Henrique 
 ##
 
-- 🔭 Atualmente estou cursando a Alura
+- 🔭 Cursando a Alura
 - 👀 Estou me dedicando ao front end
 - 🌱 Estudando html, css, js e ts
 
