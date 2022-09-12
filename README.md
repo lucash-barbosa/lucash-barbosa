@@ -3,7 +3,7 @@
 
 - 🔭 Cursando a Alura
 - 👀 Estou me dedicando ao front end
-- 🌱 Estudando html, css, js e ts
+- 🌱 Estudando js, ts e react
 
 <div align="center">
   <a href="https://github.com/lucash-barbosa">
