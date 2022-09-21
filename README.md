@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=Lucas%20Henrique%20Barbosa&fontSize=50&desc=Olá!%20eu%20sou&descAlignY=30&descSize=20" />
 
+- 👀 Dev front end
 - 🔭 Cursando a Alura
-- 👀 Estou me dedicando ao front end
 - 🌱 Estudando js, ts e react
 
 <div align="center">
