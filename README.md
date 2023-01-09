@@ -2,7 +2,7 @@
 
 - 👀 Dev front end
 - 🔭 Cursando a Alura
-- 🌱 Estudando js, ts e react
+- 🌱 Estudando react native
 
 <div align="center">
   <a href="https://github.com/lucash-barbosa">
